@@ -16,7 +16,7 @@ export default function Home() {
       <main className={styles.main}>
         <img src='/img-test.jpeg'/>
         <h1>Using Regular HTML IMG Tag:</h1>
-        <h2 style={{backgroundColor: 'yellow', display: 'inline-block', padding: '5px'}}>File Size: 176 KB</h2>
+        <h2 style={{backgroundColor: 'yellow', display: 'inline-block', padding: '10px'}}>File Size: 176 KB</h2>
       </main>
 
       <footer className={styles.footer}>

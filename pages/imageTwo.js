@@ -16,7 +16,7 @@ function ImageTwo() {
             <main className={styles.main}>        
                 <Image src="/img-test.jpeg" alt="Background image of farm" width={972} height={486}/>
                 <h1>Same Image Using Next JS's Image Component:</h1>
-                <h2 style={{backgroundColor: '#66ff99', display: 'inline-block', padding: '5px'}}>File Size: 81.3 KB</h2>
+                <h2 style={{backgroundColor: '#66ff99', display: 'inline-block', padding: '10px'}}>File Size: 102 KB</h2>
             </main>
 
             <footer className={styles.footer}>
