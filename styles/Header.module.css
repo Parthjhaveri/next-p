@@ -1,0 +1,12 @@
+.header li {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+.grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 800px;
+}
